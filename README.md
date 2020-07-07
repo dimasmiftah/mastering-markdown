@@ -7,6 +7,7 @@ Table of Content
 - [Structured Documents](#structured-documents)
 - [Code](#code)
 - [Extras (Only available on GitHub)](#extras-only-available-on-github)
+- [Tips](#tips)
 
 ## Text
 >Text styling is super easy:
@@ -83,7 +84,7 @@ or
 ```
 >will generate:
 
->Aku aku adalah anak gembala. Selalu riang serta gembira. Tak pernah lelah.
+>Aku aku adalah anak gembala. Selalu riang serta gembira. 
 > *-Dimas*
 
 >And use `#` for headings:
@@ -156,7 +157,7 @@ Hey @BennoAlif :wave:
 
 >You can visit [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) to see the available emoji.  
 
-# Tips
+## Tips
 >- Use VSCode becase it provide Markdown Previewer
 >- Install Markdown All in One extention in VSCode for Markdown writing shorcuts
 
